@@ -34,7 +34,7 @@ The texts describe the app as built on 2026-10-31. Update them when any of these
 - **a new SDK, a new kind of data, or accounts:** privacy policy §3, data safety, and the deletion page;
 - **ad placements, or the Remove-ads product:** home FAQ, about page, terms §4;
 - **level count, worlds or languages:** home and about pages;
-- **colour-blind claims:** the site says "several worlds draw a small symbol on each colour". Clover Meadow and Lilypad Pond have none (PROGRESS P4).
+- **colour symbols:** the about page says every critter and every home carries a symbol for its colour (true in all worlds since 2026-10-31, P4). The game screenshots (`assets/img/screen-1…5.webp`) are `brand/store/phone/screenshot-01…05.png` at 540×960, WebP quality 80.
 
 Also change the "Last updated" date at the top of any legal page you edit.
 
